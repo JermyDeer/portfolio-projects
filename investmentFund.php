@@ -123,5 +123,5 @@ $result = fundInit();
 $result = rebalance($result);
 
 //returnTable($result);
-// var_dump($result);
-$sum = sumStocks($result, 11);
+var_dump($result);
+//$sum = sumStocks($result, 11);
