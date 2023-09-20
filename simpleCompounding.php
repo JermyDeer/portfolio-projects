@@ -97,5 +97,5 @@ $returnThree = compoundCalc($mutual_int, $capital, $time);
 $returnTwo = compoundCalc($house_int, $capital, $time);
 $table = compareResult($returnOne, $returnThree, $returnTwo);
 
-displayTable($table);
+//displayTable($table);
 //displayResult($return);
